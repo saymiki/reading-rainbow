@@ -1,15 +1,17 @@
-# demo of homework
-
+# reading-rainbow
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This is a demo of the homework
+it makes readme's
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Usage](#usage)
+
+* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -24,16 +26,24 @@ To install necessary dependencies, run the following command:
 ```
 npm i
 ```
+```
+npm install inquirer
+```
 
 ## Usage
 
-nothing
+do good work
 
+## License
 
+This project is licensed under the MIT license.
   
 ## Contributing
 
-contribute with care
+* This entire project was built using code provided by Northwestern University's Full-stack Development Coding Bootcamp TAs from the following repository:
+https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NU-VIRT-FSF-PT-01-2023-U-LOLC/-/tree/main/00-homework-solutions/
+
+With their express permission, I used the code provided as a template which I then modified, primarily through the renaming of elements, addition/modification of comments, and rearrangement of variables.
 
 ## Tests
 
@@ -45,5 +55,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at pat@email.com. You can find more of my work at [patrickcorcoran](https://github.com/patrickcorcoran/).
+If you have any questions about the repo, open an issue or contact me directly at mikaela.montesclaros@gmail.com. You can find more of my work at [saymiki](https://github.com/saymiki/).
 
